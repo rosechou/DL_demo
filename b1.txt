@@ -1,2 +1,3 @@
 b1.txt
-This is the frist change of b.txt.
+This is the frist change of b1.txt.
+This is the second change of b1.txt.
