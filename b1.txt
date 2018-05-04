@@ -1,1 +1,2 @@
 b1.txt
+This is the frist change of b.txt.
